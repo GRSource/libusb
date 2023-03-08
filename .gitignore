@@ -66,3 +66,5 @@ xcuserdata
 *.xccheckout
 *.xcscmblueprint
 *.xcworkspace
+cmake_install.cmake
+CMakeFiles/
